@@ -11,16 +11,16 @@ import java.time.OffsetDateTime;
 @NoArgsConstructor
 @AllArgsConstructor
 public class VehicleEntity {
-    private String marca;
-    private String modello;
-    private int cilindrata;
-    private String colore;
-    private int potenza;
-    private String tipoCambio;
-    private OffsetDateTime annoImmatricolazione;
-    private String alimentazione;
-    private BigDecimal prezzo;
-    private int scontoPrezzo;
-    private String accessori;
+    private String brand;
+    private String model;
+    private int displacement;
+    private String colour;
+    private int hp;
+    private String gearType;
+    private OffsetDateTime modelYear;
+    private String fuel;
+    private BigDecimal price;
+    private int priceDiscount;
+    private String accessories;
     private VehicleType vehicleType;
 }
