@@ -1,8 +1,8 @@
 package com.team1.Salone.entieties;
 
 public enum VehicleType {
-    AUTO,
+    CAR,
     MOTO,
     SCOOTER,
-    FURGONE;
+    TRUCK;
 }
