@@ -1,9 +1,8 @@
-package com.team1.Salone.entieties;
+package com.team1.Salone.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import lombok.experimental.SuperBuilder;
 
 @Data
 @NoArgsConstructor

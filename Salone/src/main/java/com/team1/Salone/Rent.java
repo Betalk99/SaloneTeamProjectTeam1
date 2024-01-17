@@ -1,6 +1,6 @@
 package com.team1.Salone;
 
-import com.team1.Salone.entieties.VehicleEntity;
+import com.team1.Salone.entities.VehicleEntity;
 
 import java.math.BigDecimal;
 import java.time.OffsetDateTime;
